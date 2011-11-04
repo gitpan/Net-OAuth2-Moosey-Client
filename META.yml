@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-OAuth2-Moosey-Client
-version:            0.01
+version:            0.02
 abstract:           OAuth 2.0 client for perl
 author:
     - Robin Clarke <robin@robinclarke.net>
